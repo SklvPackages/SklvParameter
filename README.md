@@ -12,11 +12,9 @@ A lightweight property wrapper that persists Equatable primitive values to UserD
 
 ### Swift Package Manager
 
-```swift
-dependencies: [
-    .package(url: "https://github.com/SklvParameter/SklvParameter.git", .upToNextMajor(from: "1.0.0"))
-]
-```
+- File > Swift Packages > Add Package Dependency
+- Add `https://github.com/SklvPackages/SklvParameter.git`
+- Select "Up to Next Major" with "1.0.0"
 
 ## Usage
 
