@@ -12,7 +12,7 @@ A lightweight property wrapper that persists Equatable primitive values to UserD
 
 ### Swift Package Manager
 
-- File > Swift Packages > Add Package Dependency
+- File > Add Package Dependencies...
 - Add `https://github.com/SklvPackages/SklvParameter.git`
 - Select "Up to Next Major" with "1.0.0"
 
