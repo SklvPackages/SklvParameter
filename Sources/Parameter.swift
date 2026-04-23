@@ -24,6 +24,7 @@ import Foundation
 public protocol UserDefaultsPrimitive {}
 
 extension Int: UserDefaultsPrimitive {}
+extension Int64: UserDefaultsPrimitive {}
 extension Bool: UserDefaultsPrimitive {}
 extension Float: UserDefaultsPrimitive {}
 extension Double: UserDefaultsPrimitive {}
